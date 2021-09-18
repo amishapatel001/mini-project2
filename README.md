@@ -2,15 +2,14 @@
 # Hi, I'm Amisha 👋
 
   
-# Portfolio
-
-Portfolio will consist of about myself,myself technical knowledge service I can provide to tha contact session.
+# Rocks Paper Scissor
+Rock paper scissor is a hand game usually played between two pwople,in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are rock , paper and scissor.
 
 
 ## Specific Features
 
-- Based on black and white background.
-- Based on HTML & CSS.
+- Based on coloured background.
+- Based on HTML & CSS and javascript.
 - Smooth scrolling and jumping to different section.
 ## Authors
 
@@ -41,4 +40,5 @@ If you have any feedback, please reach out to us at vermaamisha785@.com
 
  - W3 School
  - Code  with Harry
+ 
   
