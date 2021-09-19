@@ -4,7 +4,7 @@
   
 # Rocks Paper Scissor
 
-This is my second mini project based on HTML, CSS and JavaScript in which their is one Home Landing page where user can choose between Rock, Paper and Scissor, the other section is Winner Selection section where the choices of user and computer is visible with the winner declation and the score updation too. This Score updation section can be seen in Home Landing page too. 
+This is my second mini project based on HTML, CSS and JavaScript in which their is one Home Landing page where user can choose between Rock, Paper and Scissor, the other section is Winner Selection section where the choices of user and computer is visible with the winner declaration and the score updation too.
 
 
 ## Rules
