@@ -7,6 +7,9 @@
 This is my second mini project based on HTML, CSS and JavaScript in which their is one Home Landing page where user can choose between Rock, Paper and Scissor, the other section is Winner Selection section where the choices of user and computer is visible with the winner declaration and the score updation too.
 
 
+## Live Project Link => https://app.netlify.com/sites/objective-euler-40e07a/overview
+
+
 ## Rules
 
 If the player wins, they gain 1 point. If the computer wins, the player loses one point.
