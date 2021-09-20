@@ -2,7 +2,7 @@
 # Hi, I'm Amisha 👋
 
   
-# Rocks Paper Scissor
+# Rocks Paper Scissor(JS Mini Project)
 
 This is my second mini project based on HTML, CSS and JavaScript in which their is one Home Landing page where user can choose between Rock, Paper and Scissor, the other section is Winner Selection section where the choices of user and computer is visible with the winner declaration and the score updation too.
 
